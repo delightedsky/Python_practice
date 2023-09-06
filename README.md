@@ -1,1 +1,1 @@
-# Python_practice
+#파이썬 기초 연습
